@@ -1,0 +1,9 @@
+module.exports = {
+	name: 'NAME GOES HERE',
+	description: 'DESCRIPTION GOES HERE',
+	guildOnly: true/false,
+  args: true/false, 
+  execute(message, args) {
+    //code goes here 
+  }
+};
